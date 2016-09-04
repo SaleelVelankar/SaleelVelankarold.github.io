@@ -1,9 +1,9 @@
 # Site settings
-title: 'Me, I’m Counting' # Your Title
+title: 'Me, I’m Counting.' # Your Title
 tagline: 'Nobody in Particular' # A brief tagline for your site
 sidebar_image: /images/cover1.jpg
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 baseurl: # the subpath of your site, e.g. /blog/
